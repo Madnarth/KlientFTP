@@ -1,0 +1,9 @@
+E:\Dokumenty\GitHub\Tas\KlientFTP\KlientFTP\bin\Debug\KlientFTP.exe.config
+E:\Dokumenty\GitHub\Tas\KlientFTP\KlientFTP\obj\Debug\KlientFTP.csprojResolveAssemblyReference.cache
+E:\Dokumenty\GitHub\Tas\KlientFTP\KlientFTP\obj\Debug\KlientFTP.FormMain.resources
+E:\Dokumenty\GitHub\Tas\KlientFTP\KlientFTP\obj\Debug\KlientFTP.Properties.Resources.resources
+E:\Dokumenty\GitHub\Tas\KlientFTP\KlientFTP\obj\Debug\KlientFTP.csproj.GenerateResource.Cache
+E:\Dokumenty\GitHub\Tas\KlientFTP\KlientFTP\bin\Debug\KlientFTP.exe
+E:\Dokumenty\GitHub\Tas\KlientFTP\KlientFTP\bin\Debug\KlientFTP.pdb
+E:\Dokumenty\GitHub\Tas\KlientFTP\KlientFTP\obj\Debug\KlientFTP.exe
+E:\Dokumenty\GitHub\Tas\KlientFTP\KlientFTP\obj\Debug\KlientFTP.pdb
